@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    width: 15px;
+    height: 15px;
+    border: 1px solid rgb(189, 189, 189);
+    display: inline-block;
+    margin-right: 2px;
+
+}
+
+button {
+    background-color: rgb(126, 126, 126);
+}
+
